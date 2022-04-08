@@ -14,6 +14,7 @@
 </div>
 <div id="badges" align="center">
     <a href="https://github.com/Mahmutcano"><img src="https://img.shields.io/github/license/Mahmutcano/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+  <img src="https://komarev.com/ghpvc/?username=Mahmutcano&style=flat-square&color=blue" alt=""/>
 </div>
 
 
