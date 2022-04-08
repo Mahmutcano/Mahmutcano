@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<a href="https://github.com/Mahmutcano"><img src="https://img.shields.io/github/license/Mahmutcano/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+<div id="badges" align="center">
+    <a href="https://github.com/Mahmutcano"><img src="https://img.shields.io/github/license/Mahmutcano/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</div>
+
 
 ---
 
