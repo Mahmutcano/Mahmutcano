@@ -13,13 +13,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?usename=Mahmutcano-github-Mahmutcano&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?usename=your-github-Mahmutcano&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
