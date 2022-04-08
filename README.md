@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
   <a href="https://app.patika.dev/mahmut-can">
-    <img src="https://img.shields.io/badge/Patika-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Patika Badge"/>
+    <img src="https://img.shields.io/badge/Patika-blue?style=for-the-badge&logo=patika&logoColor=white" alt="Patika Badge"/>
   </a>
 </div>
 
