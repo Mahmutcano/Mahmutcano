@@ -65,3 +65,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 ![Mahmut Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmutcano&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmutcano&layout=compact)](https://github.com/Mahmutcano/github-readme-stats)
